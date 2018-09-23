@@ -1,2 +1,2 @@
-# dog-adoption
-Dog adoption web app
+# Dog adoption web app
+
